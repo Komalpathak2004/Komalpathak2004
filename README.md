@@ -13,7 +13,7 @@
 
 I'm a MERN STACK `, `Web, Backend and Blockchain `, `Machine Learning & Software Developer.
 
-- 🏆 1x Hackathon Winner & 20+ Hackathons Participated so far : [Certificates]()
+- 🏆 1x Hackathon Winner
 - 📫 How to reach me: pathakkomal04@gmail.com 
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/komal-pathak-073127289/)
 - 🔭 I’m currently working on [MedPulseAI](https://medpulseai-ml.onrender.com/)
