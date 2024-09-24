@@ -11,7 +11,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"></p>
 
-I'm a MERN STACK `, `Web, Backend and Blockchain `, `Machine Learning & Software Developer.
+I'm a MERN STACK  `, `Web, Backend and Blockchain `, `Machine Learning & Software Developer.
 
 - 🏆 2x Hackathon Winner
 - 📫 How to reach me: pathakkomal04@gmail.com 
