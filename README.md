@@ -67,17 +67,3 @@ I'm a MERN STACK  `, `Web, Backend and Blockchain `, `Machine Learning & Softwar
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Komalpathak2004&repo=E-Commerce-Website-MERN" alt="E-Commerce Website Stats" />
   </a>
 </p>
-
-
-</details>
-<details open>
- <summary><b>GitHub & Leetcode Stats</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalpathak2004&show_icons=true&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=komalpathak2004&show_icons=true&locale=en&layout=compact">
-  <img src="https://leetcard.jacoblin.cool/PA1mHorqZz?site=us">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalpathak2004&theme=highcontrast" alt="GitHub Streak Stats" />
-</p>
-</details>
