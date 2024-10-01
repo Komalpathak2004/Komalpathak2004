@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&vCenter=true&width=900&height=110&lines=MERN+STACK+DEVELOPER;BLOCKCHAIN+DEVELOPER;MACHINE+LEARNING+DEVELOPER&color=DA70D6&gradient=linear,DA70D6,BA55D3" alt="Typing SVG" />
 </a>
-</p>
+ </p>
 
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"></p>
